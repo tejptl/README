@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.giphy.com/media/idljdFb6h52OwuoKhQ/giphy-downsized-large.gif"  />
+<img align="right" height="70" src="https://media.giphy.com/media/idljdFb6h52OwuoKhQ/giphy-downsized-large.gif"  />
 
 ###
 
